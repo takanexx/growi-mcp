@@ -1,12 +1,5 @@
 # GROWI MCP サーバー 利用手順
 
-> [!WARNING]
-> このリポジトリは [toollabo-mcp](https://git1.myasp.jp:8082/toollabo/toollabo-mcp) に統合されたため 非推奨です。\
-> 今後のメンテナンスや機能追加は行われません。\
-> Growi MCPサーバーについては [toollabo-mcp](https://git1.myasp.jp:8082/toollabo/toollabo-mcp) を使用してください
- 
-
-
 ## 必要要件
 
 - Node.js 16 以上
@@ -18,10 +11,6 @@
 npm install
 npm run build
 ```
-
-## MCPサーバーの使用方法・設定手順
-
-- [GROWIをMCPサーバー経由で操作するための設定手順](https://growi.myasp.jp/6880750850fd0be645c4b0e9) を参照してください
 
 ## 提供ツール一覧（API機能）
 
